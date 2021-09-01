@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dynamic-tables/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/dynamic-tables/static/js/main.28fcdab8.chunk.js",
+    "main.js.map": "/dynamic-tables/static/js/main.28fcdab8.chunk.js.map",
+    "runtime-main.js": "/dynamic-tables/static/js/runtime-main.4f06d7c4.js",
+    "runtime-main.js.map": "/dynamic-tables/static/js/runtime-main.4f06d7c4.js.map",
+    "static/js/2.2a81dafe.chunk.js": "/dynamic-tables/static/js/2.2a81dafe.chunk.js",
+    "static/js/2.2a81dafe.chunk.js.map": "/dynamic-tables/static/js/2.2a81dafe.chunk.js.map",
+    "index.html": "/dynamic-tables/index.html",
+    "precache-manifest.1966b15a692cbb36312441e52c205240.js": "/dynamic-tables/precache-manifest.1966b15a692cbb36312441e52c205240.js",
+    "service-worker.js": "/dynamic-tables/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/dynamic-tables/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.2a81dafe.chunk.js.LICENSE.txt": "/dynamic-tables/static/js/2.2a81dafe.chunk.js.LICENSE.txt",
+    "static/media/icon-plus-with-circle.svg": "/dynamic-tables/static/media/icon-plus-with-circle.bd65acdc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f06d7c4.js",
+    "static/js/2.2a81dafe.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.28fcdab8.chunk.js"
+  ]
+}
